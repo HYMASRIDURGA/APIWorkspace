@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="4" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-09-07T07:51:31 IST" name="Default suite" finished-at="2021-09-07T07:51:34 IST" duration-ms="2625">
+    <groups>
+    </groups>
+    <test started-at="2021-09-07T07:51:31 IST" name="Default test" finished-at="2021-09-07T07:51:34 IST" duration-ms="2625">
+      <class name="com.api.pages.DynamicJson">
+        <test-method signature="deletebook(java.lang.String, java.lang.String)[pri:0, instance:com.api.pages.DynamicJson@1356d4d4]" started-at="2021-09-07T07:51:31 IST" name="deletebook" data-provider="Booksdata" finished-at="2021-09-07T07:51:33 IST" duration-ms="2077" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[teste11]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[011]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deletebook -->
+        <test-method signature="deletebook(java.lang.String, java.lang.String)[pri:0, instance:com.api.pages.DynamicJson@1356d4d4]" started-at="2021-09-07T07:51:33 IST" name="deletebook" data-provider="Booksdata" finished-at="2021-09-07T07:51:34 IST" duration-ms="299" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[teset22]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[022]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deletebook -->
+        <test-method signature="deletebook(java.lang.String, java.lang.String)[pri:0, instance:com.api.pages.DynamicJson@1356d4d4]" started-at="2021-09-07T07:51:34 IST" name="deletebook" data-provider="Booksdata" finished-at="2021-09-07T07:51:34 IST" duration-ms="211" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[teset33]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[033]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deletebook -->
+      </class> <!-- com.api.pages.DynamicJson -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
